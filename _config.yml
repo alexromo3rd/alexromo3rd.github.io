@@ -1,11 +1,11 @@
 # Site settings
-author: Alex Romo
-title: 
+author: Alex Romo III
+title: From n00by to Ruby...Developer
 header-img: img/home-bg.png
 email: ayromo08@gmail.com
-copyright_name: Alex Romo
+copyright_name: Alex Romo III
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to Code at Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alexromo3rd
